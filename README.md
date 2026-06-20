@@ -18,7 +18,7 @@ JADI ENJOY :)
 - git clone https://github.com/ChuckXzn101/ChuckXzn101-Hacking-Tools-V1-Xros.git
 - cd ChuckXzn101-Hacking-Tools-V1-Xros
 - pip3 install -r requirements.txt // kalo gabisa make pip aja
-- python3 chuckxzn.py // kalo gabisa make python aja
+- python3 chuckxzn101-xcross.py // kalo gabisa make python aja
 
 GOOD LUCK 
 
