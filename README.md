@@ -15,7 +15,7 @@ JADI ENJOY :)
 # CARA RUN DI TERMUX / KALI LINUX 
 - sudo apt update && sudo apt upgrade -y // kalo termux gausah make sudo langsung apt aja
 - sudo apt install python3 python3-pip git -y // kalo di termux guasah make sudo langsung apt aja
-- git clone https://github.com/username/CHUCKXZN_HACKING_TOOLS.git
+- git clone https://github.com/ChuckXzn101/ChuckXzn101-Hacking-Tools-V1-Xros.git
 - cd ChuckXzn101-Hacking-Tools-V1-Xros
 - pip3 install -r requirements.txt // kalo gabisa make pip aja
 - python3 chuckxzn.py // kalo gabisa make python aja
